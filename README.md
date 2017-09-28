@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is my portfolio of skills I have learned with the help of Epicodus. Inside you will find projects that utilize html, css, and bootstrap.
+_This is my portfolio of skills I have learned with the help of Epicodus. Inside you will find projects that utilize html, css, and bootstrap._
 
 ## Setup/Installation Requirements
 
