@@ -13,7 +13,7 @@ _This is my portfolio of skills I have learned with the help of Epicodus. Inside
 * _clone this repository to the location of your choice_
 * _click on the portfolio file for your viewing pleasure_
 
-#### Link to my [site](https://andreawilkowski.github.io/portfolio/)
+## Link to my [site](https://andreawilkowski.github.io/portfolio/)
 
 
 ## Support and contact details
